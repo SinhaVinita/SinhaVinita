@@ -1,7 +1,7 @@
 👋 Hi, I’m @SinhaVinita. Check out my page at [vinitasinha.com](https://vinitasinha.com)
 <!-- Check out my work at [vinitasinha.com](https://vinitasinha.com)! -->
 
-👀 **I’m interested in tech, design, and research.** ~~When I'm not busy building core manufacturing applications for self-driving cars @ *Tesla*, you can find me fine-tuning BERT models, painting, or biking around the Bay Area.~~ When I'm not busy building out Portfolio Management and Trading applications @ *Fidelity Investments*, you can find me canoeing and hyper-focused coding in cafes in the Research Triangle Park, NC.
+👀 **I’m interested in tech, design, and research.** ~~When I'm not busy building core manufacturing applications for self-driving cars @ *Tesla*, you can find me fine-tuning BERT models, painting, or biking around the Bay Area.~~ ~~When I'm not busy building out Portfolio Management and Trading applications @ *Fidelity Investments*~~ When I'm not busy building security features for our customers at *Zip Security*, you can find me canoeing and hyper-focused coding in cafes in Soho or East Village.
 
 🎓 I graduated from Cornell University with a degree in Computer Science and Data Science. I have worked as a TA, mentor, and undergrad researcher with focus on NLP and ML.
 
